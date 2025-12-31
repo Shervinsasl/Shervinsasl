@@ -1,6 +1,6 @@
 ## Hi, I’m Shervin 👋
 
-Computer Science student at UCLA with hands-on experience building full-stack web applications, systems software, and embedded/IoT projects. I enjoy working across the stack—from frontend architecture to backend systems and hardware integration.
+Computer Science student at UCLA with hands on experience building full-stack web applications, systems software, and embedded/IoT projects. I enjoy working across the stack from frontend architecture to backend systems and hardware integration.
 
 ---
 
